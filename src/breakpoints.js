@@ -2,11 +2,11 @@ import styled from 'styled-components/macro';
 
 const size = {
     mobileS: '1px',
-    mobileM: '375px',
+    mobileM: '376px',
     mobileL: '425px',
-    tablet: '768px',
+    tablet: '726px',
     laptop: '1024px',
-    laptopL: '1440px',
+    laptopL: '1400px',
     desktop: '2560px'
 };
 
